@@ -1,4 +1,4 @@
-##How to run the Lida V2.0 server
+## How to run the Lida V2.0 server
 
 This HOWTO refers to running the Lida service on a generic host, not dependent on the Operating System provided it supports the Docker toolset, using simple terminal commands. Linux find a *lida.sh* script that automates them.
 
